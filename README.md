@@ -1,3 +1,4 @@
 # MyFirstRepo
 My first test repo
 LEARNING GITHUB
+COMMITTING NEW CHANGES
